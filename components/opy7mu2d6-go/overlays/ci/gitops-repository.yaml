@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: opy7mu2d6-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/opy7mu2d6-go-gitops
